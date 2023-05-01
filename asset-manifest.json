@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://cre8ture.github.io/csb-hfinuf/static/css/main.c1cfd195.css",
+    "main.js": "https://cre8ture.github.io/csb-hfinuf/static/js/main.93e5cf69.js",
+    "static/js/787.f28e04ef.chunk.js": "https://cre8ture.github.io/csb-hfinuf/static/js/787.f28e04ef.chunk.js",
+    "index.html": "https://cre8ture.github.io/csb-hfinuf/index.html",
+    "main.c1cfd195.css.map": "https://cre8ture.github.io/csb-hfinuf/static/css/main.c1cfd195.css.map",
+    "main.93e5cf69.js.map": "https://cre8ture.github.io/csb-hfinuf/static/js/main.93e5cf69.js.map",
+    "787.f28e04ef.chunk.js.map": "https://cre8ture.github.io/csb-hfinuf/static/js/787.f28e04ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1cfd195.css",
+    "static/js/main.93e5cf69.js"
+  ]
+}
